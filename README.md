@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Synopsis
 
 Solidity and NodeJs (Truffle) example for implementing a flight insurance system. It should be used with Metamask for a better understanding.
@@ -18,3 +19,7 @@ Use truffle project instructions.
 
 Project is free to use and modify, intended for academic use. Keeping a reference to this project is appreciated.
 
+=======
+# flight-insurance-ethereum
+Flight Insurance demo with Solidity for the Ethereum Blockchain
+>>>>>>> bb88164de0865176f8d033bcd3bfebb4c0ee3f09
