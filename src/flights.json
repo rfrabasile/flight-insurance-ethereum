@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "MVD-NY",
+    "airline": "American Airlines",
+    "picture": "images/avioncito.png",
+    "arrivalDate": "02/11/2017 10:00:00"
+  },
+  {
+    "id": 1,
+    "name": "MVD-STG",
+    "airline": "American Airlines",
+    "picture": "images/avioncito.png",
+    "arrivalDate": "06/11/2017 12:30:00"
+  },
+  {
+    "id": 2,
+    "name": "MVD-MIA",
+    "airline": "American Airlines",
+    "picture": "images/avioncito.png",
+    "arrivalDate": "16/11/2017 15:15:00"
+  }
+]
